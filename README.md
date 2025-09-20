@@ -1,8 +1,9 @@
-<H3>Name</H3>
-<H3>Register no. 212223040043</H3>
-<H3>Date:20-09-2025</H3>
-<H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+# Name: DIVYA M
+# Register no. 212223040043
+# Date:20-09-2025
+# Experiment No. 2 
+
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
